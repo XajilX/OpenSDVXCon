@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="artwork_cut_2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.83116582"
+     inkscape:cx="397.03269"
+     inkscape:cy="371.16541"
+     inkscape:window-width="1848"
+     inkscape:window-height="1177"
+     inkscape:window-x="64"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="stroke:#ff0000;stroke-opacity:1;stroke-width:0.001;stroke-dasharray:none">
+    <path
+       d="m 271.13229,94.132291 v -74 H 15.132291 v 74 z"
+       style="fill:none;stroke:#ff0000;stroke-width:0.001;stroke-opacity:1;stroke-dasharray:none"
+       id="path9-34" />
+    <path
+       d="m 30.632291,34.132291 a 2.5000003,2.5000003 0 0 0 5,0 2.5000003,2.5000003 0 0 0 -5,0 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.001;stroke-opacity:1;stroke-dasharray:none"
+       id="path5-1" />
+    <path
+       d="m 250.63228,34.132291 a 2.5000003,2.5000003 0 0 0 5,0 2.5000003,2.5000003 0 0 0 -5,0 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.001;stroke-opacity:1;stroke-dasharray:none"
+       id="path6-3" />
+    <path
+       d="m 30.632291,80.132291 a 2.5000003,2.5000003 0 0 0 5,0 2.5000003,2.5000003 0 0 0 -5,0 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.001;stroke-opacity:1;stroke-dasharray:none"
+       id="path7-8" />
+    <path
+       d="m 250.63228,80.132291 a 2.5000003,2.5000003 0 0 0 5,0 2.5000003,2.5000003 0 0 0 -5,0 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.001;stroke-opacity:1;stroke-dasharray:none"
+       id="path8-9" />
+  </g>
+</svg>
